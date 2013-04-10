@@ -2,15 +2,20 @@
   "name": "tpl",
   "version": "0.0.1",
   "description": "express view engine",
-  "scripts": {
-  },
   "main": "./lib/tpl.js",
-  "repository": "",
+  "repository": {
+  	"type": "git",
+	"url": "https://github.com/mfylee/tpl.git"
+  },
   "keywords": [
     "express",
+    "template",
     "node",
     "engine"
   ],
-  "author": "lifayu",
+  "author":{
+  	"name": "lifayu",
+	"email": "mfylee@163.com"
+  }, 
   "license": "BSD"
 }
