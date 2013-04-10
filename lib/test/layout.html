@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>{{=title}}</title>
+	{{block name="head"}}
+	<link rel="stylesheet" href="css.css"/>
+	{{/block}}
+</head>
+<body>
+	{{include file="./mod.html"}}
+	<br>
+	{{block name="body"}}
+		body template
+	{{/block}}
+	{{block name="footer"}}
+		<footer>copyright(c) 2013</footer>
+	{{/block}}
+</body>
+</html>

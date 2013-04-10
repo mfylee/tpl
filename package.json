@@ -1,0 +1,16 @@
+{
+  "name": "tpl",
+  "version": "0.0.1",
+  "description": "express view engine",
+  "scripts": {
+  },
+  "main": "./lib/tpl.js",
+  "repository": "",
+  "keywords": [
+    "express",
+    "node",
+    "engine"
+  ],
+  "author": "lifayu",
+  "license": "BSD"
+}
