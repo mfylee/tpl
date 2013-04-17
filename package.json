@@ -1,7 +1,7 @@
 {
-  "name": "tpl",
+  "name": "ntpl",
   "version": "0.0.1",
-  "description": "express view engine",
+  "description": "express template engine",
   "main": "./lib/tpl.js",
   "repository": {
   	"type": "git",
